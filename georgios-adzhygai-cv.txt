@@ -79,7 +79,7 @@ Skills: T-SQL, .NET, C#, JavaScript
 
 Senior System Dev. Consultant
 SimCorp Ukraine LLC, investment management
-Feb 2006 - Apr 2011, 5 yrs 3 mos
+Feb 2006 - Apr 2011
 Kyiv, Ukraine
 * Developed a custom investment management system
 * Built a data extraction/analysis utility
