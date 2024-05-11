@@ -6,6 +6,14 @@
 \usepackage{hyperref}
 \usepackage{titlesec}
 \usepackage[none]{hyphenat}
+\usepackage{fontawesome5}
+
+\hypersetup{
+  colorlinks   = true, %Colours links instead of ugly boxes
+  urlcolor     = blue, %Colour for external hyperlinks
+  linkcolor    = blue, %Colour of internal links
+  citecolor    = red   %Colour of citations
+}
 
 \titleformat*{\section}{\normalsize\bfseries}
 \titleformat*{\subsection}{\normalsize\bfseries}
@@ -24,8 +32,13 @@
 \begin{document}
 
 \section*{\Large Georgios Adzhygai}
-\href{mailto:georgios@ayorgo.com}{georgios@ayorgo.com} \\
-\href{https://www.linkedin.com/in/ayorgo}{linkedin.com/in/ayorgo}
+
+\begin{tabbing}
+\faEnvelope[regular] \= \href{mailto:georgios@ayorgo.com}{georgios@ayorgo.com} \\
+\faLinkedin \> \href{https://www.linkedin.com/in/ayorgo}{linkedin.com/in/ayorgo} \\
+\faGithub \> \href{https://github.com/ayorgo}{github.com/ayorgo} \\
+\faStackOverflow \> \href{https://stackoverflow.com/users/4755520/ayorgo}{stackoverflow.com/users/4755520/ayorgo}
+\end{tabbing}
 
 \section*{CITIZENSHIPS}
 Greece (EU), United Kingdom
@@ -71,8 +84,7 @@ London, UK
     \item Led a team of two data scientists
 \end{bulletlist}
 \textbf{Skills: }Tableau, Machine Learning, Python, Bash, SQL, MLOps, Statistics, Linux, pandas, NumPy, Scikit-Learn
-\\
-\\
+
 \subsection*{Software Engineer}
 Zopa, fintech \\
 Jun 2015 - Mar 2017 \\
@@ -129,5 +141,4 @@ Kyiv, Ukraine
 National Technical University of Ukraine "Kyiv Polytechnic Institute" \\
 1999 - 2005 \\
 Kyiv, Ukraine
-
 \end{document}
