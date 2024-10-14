@@ -1,3 +1,11 @@
 *.aux
 *.log
 *.out
+*.4ct
+*.4tc
+*.css
+*.dvi
+*.idv
+*.lg
+*.tmp
+*.xref
