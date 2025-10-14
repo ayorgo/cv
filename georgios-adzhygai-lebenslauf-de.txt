@@ -1,0 +1,93 @@
+Georgios Adzhygai
+
+mailto:georgios@ayorgo.com
+https://www.linkedin.com/in/ayorgo
+https://github.com/ayorgo
+https://stackoverflow.com/users/4755520/ayorgo
+
+STAATSANGEHÖRIGKEIT
+Griechenland, Vereinigtes Königreich
+
+ERFAHRUNG
+
+Senior Data Engineer
+Plentific (Immobilienverwaltung)
+Nov. 2024 – Okt. 2025
+London, Großbritannien
+Teil eines kleinen Teams von Senior Engineers.
+- Entwicklung von LLM-basierten Anwendungen mit einer Mischung aus traditionellem ML und sorgfältig ausgearbeiteten Heuristiken.
+- Testen, Validieren und sonstige kontinuierliche Wartung der oben genannten Anwendungen, um deren stabile Leistung sicherzustellen.
+- Automatisierung von Datenaufnahmeleitungen.
+- Wartung einer Reihe von internen und kundenorientierten Dashboards.
+Fähigkeiten: PostgreSQL, Snowflake, dbt, Python, Bash, Docker, AWS, OpenAI API, Looker, LookML
+
+Maschinelles Lernen-Ingenieur
+Lyst (E-Commerce)
+Nov. 2019 – Jul. 2022
+London, Großbritannien
+Erster ML-Ingenieur, beauftragt mit dem Aufbau einer robusten ML-Infrastruktur und -Prozessen, um die Lücke zwischen Datenwissenschaftlern und Software-Ingenieuren zu schließen, damit erstere schneller neue Modelle iterieren können und letztere von der ständigen Fehlerbehebung entlastet werden.
+- Aufbau einer Cloud-basierten ML-Pipeline von Grund auf, um eine effiziente Modellbereitstellung und -integration zu ermöglichen.
+- Mitwirkung an der Konzeption und Entwicklung von Modellen zur Vorhersage der Nutzerinteraktion sowie von Such- und Empfehlungsalgorithmen.
+- Entwicklung Cloud-basierter Befehlszeilentools für schnelle Experimente.
+- Entwicklung eines Datenkonvertierungsprogramms zur Optimierung der Datenerfassung aus mehreren Datenquellen.
+- Entwurf von Monitoring-Dashboards für die Echtzeit-Leistungsüberwachung und -Berichterstattung.
+- Mentoring von Nachwuchsingenieuren.
+Fähigkeiten: Looker, Elasticsearch, Docker, Machine Learning, Python, Bash, Empfehlungssysteme, Informationsgewinnung, Suchmaschinen, MLOps, Metaflow, Snowflake, SQL, Statistik, Amazon Web Services (AWS), Terraform
+
+Leitender Datenwissenschaftler
+ETX Capital (Finanzdienstleistungen)
+Mai 2018 – Mai 2019
+London, Großbritannien
+Erster Mitarbeiter im Bereich Data Science, verantwortlich für den Aufbau der DS/ML-Infrastruktur von Grund auf und den Ausbau des Teams.
+- Etablierung von Codierungsstandards und Best Practices für das Data-Science-Team, um Konsistenz und Qualität sicherzustellen.
+- Aufbau und Bereitstellung einer Infrastruktur zur Optimierung der Modellintegration und -bereitstellung.
+- Entwicklung eines Kundenbewertungsmodells und dessen Bereitstellung über eine RESTful-API.
+- Leitung und Betreuung eines Teams von zwei Datenwissenschaftler.
+Fähigkeiten: Tableau, Machine Learning, Python, Bash, SQL, MLOps, Statistik, Pandas, NumPy, Scikit-Learn
+
+Softwareentwickler
+Zopa (Fintech)
+Jun. 2015 – März 2017
+London, Großbritannien
+- Entwicklung einer Peer-to-Peer-Kreditplattform.
+- Entwurf der Kernkomponenten der Plattform.
+Fähigkeiten: SQL, ASP.NET, .NET, C
+
+Erfahrener Ingenieur
+InsightSoftware.com (Finanzberichterstattung)
+Jun. 2014 – Feb. 2015
+London, Großbritannien
+- Mitwirkung an der Server- und Client-Seite des maßgeschneiderten BI-Systems des Unternehmens.
+- Fehlerbehebung und Verbesserung der zentralen SQL-Generierungs-Engine.
+- Entwicklung einer benutzerdefinierten Grafikbibliothek.
+Fähigkeiten: SQL, .NET, C#, JavaScript
+
+.NET-Entwickler
+EPAM Systems (Bankwesen)
+Apr. 2013 – Mai 2014
+Kyjiw, Ukraine
+- Entwicklung von Unternehmensbankensoftware.
+- Erstellung eines Tools zum Importieren und Verarbeiten von Daten.
+- Einrichtung von Continuous-Integration-Umgebungen.
+Fähigkeiten: SQL, .NET, C#
+
+.NET-Webentwickler
+Terrasoft (Kundenbeziehungsmanagement)
+Sep. 2011 - März 2013
+Kyjiw, Ukraine
+- Entwicklung eines webbasierten CRM für Front- und Backend.
+Fähigkeiten: SQL, .NET, C#, JavaScript
+
+Senior System Dev. Consultant
+SimCorp Ukraine LLC (Investmentmanagement)
+Feb. 2006 – Apr. 2011
+Kyjiw, Ukraine
+- Entwicklung eines maßgeschneiderten Investmentmanagementsystems.
+- Erstellung eines Dienstprogramms zur Datenextraktion und -analyse.
+Fähigkeiten: SQL, Dyalog APL/W
+
+AUSBILDUNG
+MSc, Angewandte Mathematik
+Nationale Technische Universität der Ukraine "Kyjiwer Polytechnisches Institut"
+1999–2005
+Kyjiw, Ukraine
