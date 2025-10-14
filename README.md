@@ -1,8 +1,16 @@
-# CV
+# Curriculum Vitae
 ## Technical requirements
 `texlive-full` (`pkgs.texlive.combined.scheme-full` in Nix)
-## `.tex` --> `.pdf`
-The following will create `georgios-adzhygai-cv.pdf` file in the current directory:
+## `.tex` ⟶ `.pdf`
+### English-speaking markets
 ```sh
-pdflatex georgios-adzhygai-cv.tex
+make en
+```
+### German-speaking markets
+```sh
+make de
+```
+### Delete auxiliary files
+```sh
+make clean
 ```
