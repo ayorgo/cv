@@ -15,10 +15,10 @@ Plentific (property management)
 Nov 2024 - Oct 2025
 London, UK
 Part of a small team of senior engineers.
-- Developing LLM based applications with a mix of traditional ML and carefully crafted heuristics.
-- Testing, validating, and otherwise continuously maintaining the above applications to ensure their stable performance.
-- Automating data ingestion pipelines.
-- Maintaining a fleet of internal and client facing dashboards.
+- Developed LLM based applications with a mix of traditional ML and carefully crafted heuristics.
+- Tested, validated, and otherwise maintained the above applications to ensure their stable performance.
+- Automated data ingestion pipelines.
+- Maintained a fleet of internal and client facing dashboards.
 Skills: PostgreSQL, Snowflake, dbt, Python, Bash, Docker, AWS, OpenAI API, Looker, LookML
 
 Machine Learning Engineer

@@ -16,8 +16,8 @@ Nov. 2024 – Okt. 2025
 London, Großbritannien
 Teil eines kleinen Teams von Senior Engineers.
 - Entwicklung von LLM-basierten Anwendungen mit einer Mischung aus traditionellem ML und sorgfältig ausgearbeiteten Heuristiken.
-- Testen, Validieren und sonstige kontinuierliche Wartung der oben genannten Anwendungen, um deren stabile Leistung sicherzustellen.
-- Automatisierung von Datenaufnahmeleitungen.
+- Test, Validierung und Wartung der oben genannten Anwendungen, um deren stabile Leistung sicherzustellen.
+- Automatisierte Datenaufnahmeleitungen.
 - Wartung einer Reihe von internen und kundenorientierten Dashboards.
 Fähigkeiten: PostgreSQL, Snowflake, dbt, Python, Bash, Docker, AWS, OpenAI API, Looker, LookML
 
