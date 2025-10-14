@@ -21,7 +21,7 @@ Teil eines kleinen Teams von Senior Engineers.
 - Wartung einer Reihe von internen und kundenorientierten Dashboards.
 Fähigkeiten: PostgreSQL, Snowflake, dbt, Python, Bash, Docker, AWS, OpenAI API, Looker, LookML
 
-Maschinelles Lernen-Ingenieur
+Machine Learning Engineer
 Lyst (E-Commerce)
 Nov. 2019 – Jul. 2022
 London, Großbritannien
@@ -34,7 +34,7 @@ Erster ML-Ingenieur, beauftragt mit dem Aufbau einer robusten ML-Infrastruktur u
 - Mentoring von Nachwuchsingenieuren.
 Fähigkeiten: Looker, Elasticsearch, Docker, Machine Learning, Python, Bash, Empfehlungssysteme, Informationsgewinnung, Suchmaschinen, MLOps, Metaflow, Snowflake, SQL, Statistik, Amazon Web Services (AWS), Terraform
 
-Leitender Datenwissenschaftler
+Lead Data Scientist
 ETX Capital (Finanzdienstleistungen)
 Mai 2018 – Mai 2019
 London, Großbritannien
@@ -45,7 +45,7 @@ Erster Mitarbeiter im Bereich Data Science, verantwortlich für den Aufbau der D
 - Leitung und Betreuung eines Teams von zwei Datenwissenschaftler.
 Fähigkeiten: Tableau, Machine Learning, Python, Bash, SQL, MLOps, Statistik, Pandas, NumPy, Scikit-Learn
 
-Softwareentwickler
+Software Engineer
 Zopa (Fintech)
 Jun. 2015 – März 2017
 London, Großbritannien
@@ -53,7 +53,7 @@ London, Großbritannien
 - Entwurf der Kernkomponenten der Plattform.
 Fähigkeiten: SQL, ASP.NET, .NET, C
 
-Erfahrener Ingenieur
+Experienced Engineer
 InsightSoftware.com (Finanzberichterstattung)
 Jun. 2014 – Feb. 2015
 London, Großbritannien
@@ -62,7 +62,7 @@ London, Großbritannien
 - Entwicklung einer benutzerdefinierten Grafikbibliothek.
 Fähigkeiten: SQL, .NET, C#, JavaScript
 
-.NET-Entwickler
+.NET Developer
 EPAM Systems (Bankwesen)
 Apr. 2013 – Mai 2014
 Kyjiw, Ukraine
@@ -71,7 +71,7 @@ Kyjiw, Ukraine
 - Einrichtung von Continuous-Integration-Umgebungen.
 Fähigkeiten: SQL, .NET, C#
 
-.NET-Webentwickler
+.NET Web Developer
 Terrasoft (Kundenbeziehungsmanagement)
 Sep. 2011 - März 2013
 Kyjiw, Ukraine
