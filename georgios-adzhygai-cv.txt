@@ -51,7 +51,7 @@ Jun 2015 - Mar 2017
 London, UK
 - Developed peer-to-peer lending platform.
 - Designed core platform components.
-Skills: SQL, ASP.NET, .NET, C
+Skills: SQL, ASP.NET, .NET, C#
 
 Experienced Engineer
 InsightSoftware.com (financial reporting)
@@ -60,7 +60,7 @@ London, UK
 - Contributed to server and client ends of the company's bespoke BI system.
 - Fixed and enhanced core SQL generating engine.
 - Developed custom graphics library.
-Skills: SQL, .NET, C, JavaScript
+Skills: SQL, .NET, C#, JavaScript
 
 .NET Developer
 EPAM Systems (banking)
@@ -69,14 +69,14 @@ Kyiv, Ukraine
 - Developed corporate banking software.
 - Created data import and processing tool.
 - Set up continuous integration environments.
-Skills: SQL, .NET, C
+Skills: SQL, .NET, C#
 
 .NET Web Developer
 Terrasoft (customer relationship management)
 Sep 2011 - Mar 2013
 Kyiv, Ukraine
 - Developed web-based CRM on both front and back ends.
-Skills: SQL, .NET, C, JavaScript
+Skills: SQL, .NET, C#, JavaScript
 
 Senior System Dev. Consultant
 SimCorp Ukraine LLC (investment management)
